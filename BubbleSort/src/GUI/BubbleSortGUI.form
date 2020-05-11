@@ -115,9 +115,6 @@
           <Properties>
             <Property name="text" type="java.lang.String" value="Algoritma Bubble Sort"/>
           </Properties>
-          <AccessibilityProperties>
-            <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Algoritma Bubble Sort"/>
-          </AccessibilityProperties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>

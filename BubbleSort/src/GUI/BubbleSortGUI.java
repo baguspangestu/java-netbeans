@@ -5,6 +5,10 @@
  */
 package GUI;
 
+/**
+ *
+ * @author bagus
+ */
 public class BubbleSortGUI extends javax.swing.JFrame {
 
     /**
