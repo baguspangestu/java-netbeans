@@ -1,4 +1,7 @@
 # Project Java Netbeans
+
+Sebagai tugas kuliah pada saat itu
+
 - ### BubbleSort
   ![BubbleSort](/BubbleSort.png)
 - ### CelciusToFahrenheit
@@ -12,7 +15,6 @@
 - ### iReport
   ![iReport](/iReport.png)
 
-### Contact:
-- Facebook: [Bagus Pangestu](https://fb.com/baguspangestucom)
-- Email: baguspangestu@yandex.com
-- Website: http://baguspangestu.com
+---
+
+© 2022 Bagus Pangestu - <baguspangestu@yandex.com>
