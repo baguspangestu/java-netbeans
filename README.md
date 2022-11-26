@@ -17,4 +17,4 @@ Sebagai tugas kuliah pada saat itu
 
 ---
 
-© 2022 Bagus Pangestu - <baguspangestu@yandex.com>
+© 2020 Bagus Pangestu - <baguspangestu@yandex.com>
